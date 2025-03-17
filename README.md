@@ -8,7 +8,7 @@ This is a sample project with a README file.
 - 🔒 Secure  
 
 ## Screenshot  
-images/(WhatsApp Image 2025-03-17 at 4.27.00 PM (1),jpeg)
+images/(WhatsApp Image 2025-03-17 at 4.27.00 PM (1).jpeg)
 
 ## Installation
 ```sh
