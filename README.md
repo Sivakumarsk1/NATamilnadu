@@ -1,4 +1,4 @@
-# My GitHub Project
+# NATAMILNADU PROJECT
 
 This is a sample project with a README file.
 
